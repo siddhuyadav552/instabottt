@@ -1,2 +1,2 @@
 instapy==0.6.16
-python==3.8
+python==3.8.0
