@@ -1,3 +1,2 @@
-instapy 0.6.16
-python 3.8
-pip 23.3.1
+instapy==0.6.16
+python==3.8
