@@ -7,7 +7,7 @@ username = 'legendofhanumanji'
 password = '12122001@siddhu'
 
 # specify the file path to the reel you want to upload
-file_path = 'C:\\Users\\Siddhartha Yadav\\Desktop\\ramreel.mp4'
+file_path = 'ramreel.mp4.mp4'
 
 # create a new InstaPy session and set the Instagram username and password
 session = InstaPy(username=username, password=password, headless_browser=True)
