@@ -3,11 +3,11 @@ from instapy import smart_run
 import time
 
 # specify the username and password for your Instagram account
-username = 'legendofhanumanji'
-password = '12122001@siddhu'
+username = 'xxxxxx'
+password = 'xxxx'
 
 # specify the file path to the reel you want to upload
-file_path = 'ramreel.mp4.mp4'
+file_path = 'xxxxxxxxxxxxxx'
 
 # create a new InstaPy session and set the Instagram username and password
 session = InstaPy(username=username, password=password, headless_browser=True)
